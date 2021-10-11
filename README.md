@@ -1,0 +1,2 @@
+-Segundo projeto de HTML agora utilizando CSS interno e externo.
+-Utilizado estilos externos em arquivo .css para otimizar layout do site.
